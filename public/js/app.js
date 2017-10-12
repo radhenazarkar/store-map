@@ -1,4 +1,4 @@
-fetch('/src/stores.json')
+fetch('/json/stores.json')
 .then(res => res.json())
 .then(data => {
   const storeMap = new StoreMap(document.getElementById('storeMap'), data);
