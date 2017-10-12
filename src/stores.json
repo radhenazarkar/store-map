@@ -1,0 +1,46 @@
+[{
+	"name": "Empire State Building",
+	"address": "350 Fifth Ave., bet. W33 and W34",
+	"description": "The building is clad in Indiana limestone and granite, with the mullions lined in shiny aluminium. There are in all 6,500 windows",
+	"phone": "+1 (123) 456 7890",
+	"hrefPhone": "+11234567890",
+	"latitude": "40.748441",
+	"longitude": "-73.985664",
+	"directionUrl": "https://www.google.co.in/maps/dir//''/@40.7484193,-74.0557043,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89c259a9b3117469:0xd134e199a405a163!2m2!1d-73.9856644!2d40.7484405"
+}, {
+	"name": "Chrysler Building",
+	"address": "405 Lexington Avenue at 42nd Street",
+	"description": "The Chrysler Building is an Art Deco skyscraper in New York City",
+	"phone": "+1 (123) 456 7890",
+	"hrefPhone": "+11234567890",
+	"latitude": "40.751621",
+	"longitude": "-73.975502",
+	"directionUrl": "https://www.google.co.in/maps/dir//Chrysler+Building,+405+Lexington+Ave,+New+York,+NY+10174,+USA/@40.7515996,-74.0455423,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x89c2590247c56379:0x15e13bea38b43e18!2m2!1d-73.975502!2d40.7516208"
+}, {
+	"name": "St. Patrick's Cathedral",
+	"address": "Fifth Avenue, bet. E50 and E51.",
+	"description": "St. Patrick's Cathedral is the largest decorated Neo-Gothic-style Catholic cathedral in North America. ",
+	"phone": "+1 (123) 456 7890",
+	"hrefPhone": "+11234567890",
+	"latitude": "40.758465",
+	"longitude": "-73.975993",
+	"directionUrl": "https://www.google.co.in/maps/dir//St.+Patrick's+Cathedral,+5th+Ave,+New+York,+NY+10022,+USA/@40.7584441,-74.046033,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89c258fc102f6e51:0x88603435e036aa5b!2m2!1d-73.9759927!2d40.7584653"
+}, {
+	"name": "Grand Central Terminal",
+	"address": "42nd Street and 3rd Ave.",
+	"description": "Grand Central Terminal (GCT, often inaccurately called Grand Central Station) is a Terminal station at 42nd Street and Park Avenue in Midtown Manhattan in New York City. ",
+	"phone": "+1 (123) 456 7890",
+	"hrefPhone": "+11234567890",
+	"latitude": "40.752726",
+	"longitude": "-73.977229",
+	"directionUrl": "https://www.google.co.in/maps/dir//Grand+Central+Terminal,+89+E+42nd+St,+New+York,+NY+10017,+USA/@40.752705,-74.0472697,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89c25a21fb011c85:0x37513b7f1821408b!2m2!1d-73.9772294!2d40.7527262"
+}, {
+	"name": "St.Regis-Sheraton Hotel",
+	"address": "2 E55 at Fifth Ave.",
+	"description": "The public rooms in the St. Regis were relatively small, a subtle indication.",
+	"phone": "+1 (123) 456 7890",
+	"hrefPhone": "+11234567890",
+	"latitude": "40.761422",
+	"longitude": "-73.974769",
+	"directionUrl": "https://www.google.co.in/maps/dir//The+St.+Regis+New+York,+2+E+55th+St,+New+York,+NY+10022,+USA/@40.761401,-74.0448097,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89c258fa521af94f:0xf467246ee0a5e427!2m2!1d-73.9747694!2d40.7614222"
+}]

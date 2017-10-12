@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Store Map</title>
+    <script src="//maps.googleapis.com/maps/api/js?libraries=places"></script>
+    <style>
+      body {
+        margin: 0
+      }
+      header {
+        padding: 15px 20px;
+        background: #3B2F63;
+        color: #fff;
+        margin-bottom: 20px;
+      }
+      header h3 {
+        margin: 0;
+        font-weight: 100;
+        letter-spacing: 2px;
+      }
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+      }
+      .storeListContainer {
+        flex-basis: 300px;
+        flex-shrink: 1;
+        height: 500px;
+        overflow: auto;
+      }
+      .storeListContainer ul {
+        padding: 0px;
+        list-style: none;
+        margin: 0;
+      }
+      .storeListContainer ul li {
+        margin: 10px 25px 15px 10px;
+        padding: 15px;
+        box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+      }
+      .storeListContainer ul li h3 {
+        margin: 0px;
+        padding-bottom: 10px;
+      }
+      .storeMapContainer {
+        flex: 1;
+        height: 500px;
+        border: 1px solid #ddd;
+      }
+      .clearfix:before, .clearfix:after {
+        display: table;
+        content: " ";
+      }
+      .clearfix:after {
+        clear: both;
+      }
+      
+      .pull-left {
+        float: left;
+      }
+      .pull-right {
+        float: right;
+      }
+    </style>
+  </head>
+  <body>
+    <header><h3>StoreMap</h3></header>
+    <div class="container">
+       <div id="storeList" class="storeListContainer"></div>
+  	   <div id="storeMap" class="storeMapContainer"></div>
+    <div>
+  	<script src="/src/storelist.js"></script>
+  	<script src="/src/storemap.js"></script>
+  	<script src="/src/app.js"></script>
+  </body>
+</html>
