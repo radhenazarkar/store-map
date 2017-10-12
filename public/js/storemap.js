@@ -4,7 +4,10 @@ class StoreMap {
 			zoom: 12,
      	center: new google.maps.LatLng(40.748441, -73.985664),
      	mapTypeId: google.maps.MapTypeId.ROADMAP,//TERRAIN
-			disableDefaultUI: true
+			fullscreenControl: false,
+			streetViewControl: false,
+			mapTypeControl: false,
+			zoomControl: true,
 		};
 		this.markers = [];
 		this.map = new google.maps.Map(renderTo, mapOptions);
